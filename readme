@@ -1,5 +1,11 @@
 Hall Booking API
  API is used for creating a room, booking a room, retrieving the all room details with booking data and retrieving the all customer details with booking data.
 
+GET All Room Data 
+POST Create Room
+POST Booking Room
+GET Booked Data
+GET Create Room
+GET Count&Name 
 
 POSTMANDOC: https://documenter.getpostman.com/view/37436982/2sA3s4k9qD
