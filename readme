@@ -1,28 +1,5 @@
 Hall Booking API
  API is used for creating a room, booking a room, retrieving the all room details with booking data and retrieving the all customer details with booking data.
 
-GET
-Booked Data
-For getting the booked data of aroom details, customer name, timings and date.
 
-GET
-Get All Room
-To get all rooms id, room name, status, amenities, seats,and price per hour.
-
-﻿
-
-POST
-Create room
-For creating a room, numberOfSeatsAvailable, amenitiesInRoom and pricePerHour are mandatory. If any of the fields is missing the room can't be created.
-
-﻿
-
-POSR
-Booking Room
-For booking a room, customerName, date, startTime, endTime and roomID are mandatory. If any of the fields is missing the room can't be booked. roomID should be given from the rooms that created already. If roomID is not available, the room can't be booked.
-
-﻿
-
-GET
-Customer Data
-Hall Booking API is used for creating a room, booking a room, retrieving the all room details with booking data and retrieving the all customer details with booking data.
+POSTMANDOC: https://documenter.getpostman.com/view/37436982/2sA3s4k9qD
